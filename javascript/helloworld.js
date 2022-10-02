@@ -1,5 +1,4 @@
-// the hello world program
-console.log('Hello World');
+const message = 'Hello world' 
 
-// the hello world program
-alert("Hello, World!");
+//console.log('Hello World'); 
+//alert("Hello, World!");
